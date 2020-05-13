@@ -10,3 +10,4 @@ func main()  {
 	fmt.Println("hello world!")
 	fmt.Println("hello world!")
 }
+// 重命名 go build -o myhello.exe hello.go
