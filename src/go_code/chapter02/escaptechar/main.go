@@ -9,5 +9,4 @@ func main() {
 	fmt.Println("tom\"jack\"")
 	// \r 回车,从当前行的最前面开始输出,覆盖掉以前的内容
 	fmt.Println("-------------\rjack")
-	fmt.Println("姓名\t年龄\t籍贯\t住址\njohn\t12\t河北\t北京")
 }
