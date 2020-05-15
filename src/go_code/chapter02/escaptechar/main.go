@@ -9,4 +9,14 @@ func main() {
 	fmt.Println("tom\"jack\"")
 	// \r 回车,从当前行的最前面开始输出,覆盖掉以前的内容
 	fmt.Println("-------------\rjack")
+	// 行注释
+	// asfgasgasfa
+	// safasfasfa
+
+	// 块注释
+	/*
+	asfasfasf
+	asfasfasfa
+	asfasfasf
+	*/
 }
