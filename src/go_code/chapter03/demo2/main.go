@@ -12,8 +12,8 @@ func main() {
 	fmt.Println("num=", num)
 
 	//golang变量使用方式3
-	name := "tom"
+	name := "Tom"
 	// := 的 : 不能省略
-	// 等价于 var name string 加 name = "tom"
+	// 等价于 var name string 加上 name = "tom"
 	fmt.Println("name=", name)
 }
